@@ -13,7 +13,8 @@
   
   ### 4 安装redroid   
   
-  碧蓝航线，ubuntu系统，采用 ubuntu-rockchip 22.04 ，碧蓝航线可能会闪退，此时需要刷新内核文件（参照https://www.nyanners.moe/post/rk3588-orangep5plus-starrailcopilot.html）  
+  碧蓝航线，ubuntu系统，采用 ubuntu-rockchip 22.04 ，碧蓝航线可能会闪退，此时需要刷新内核文件  
+  （参照  https://www.nyanners.moe/post/rk3588-orangep5plus-starrailcopilot.html  ）  
   [链接跳转](https://www.nyanners.moe/post/rk3588-orangep5plus-starrailcopilot.html)
   
   ### 5 QtScrcpy 或 Scrcpy ，linux adb调试  
